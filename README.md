@@ -13,10 +13,13 @@ Compilation
 ```bash
 git clone https://github.com/CoinMonkey/bitmonk-daemon.git
 cd src
-change path to libs in makefile.mingw for Windows and makefile.unix for Linux
 ```
 
-For Windows (in MINWG32 console):
+So, now change the path to libs in makefile.mingw for Windows and makefile.unix for Linux
+
+
+Return to console. For Windows (in MINWG32 console):
+
 ```bash
 sd bitmonk/src/leveldb
 TARGET_OS=NATIVE_WINDOWS make libleveldb.a libmemenv.a
