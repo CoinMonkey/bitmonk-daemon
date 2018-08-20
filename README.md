@@ -98,11 +98,26 @@ masternode.conf on Windows:
 mn1 IPLinuxServer:37770 genkey output1 output2
 ```
 
-For check status: bitmonkd masternode status
-For start one: bitmonkd.exe masternode start-alias mn1
-For start all: bitmonkd.exe masternode start-many
-For stop one: bitmonkd.exe masternode stop-alias mn1
-For stop all: bitmonkd.exe masternode stop-many
+For check status:
+```
+bitmonkd masternode status
+```
+For start one:
+```
+bitmonkd.exe masternode start-alias mn1
+```
+For start all:
+```
+bitmonkd.exe masternode start-many
+```
+For stop one:
+```
+bitmonkd.exe masternode stop-alias mn1
+```
+For stop all:
+```
+bitmonkd.exe masternode stop-many
+```
 
 Statuses:
 MASTERNODE_NOT_PROCESSED: 0 
