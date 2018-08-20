@@ -3,7 +3,7 @@
 Bitmonk (BMO) daemons
 ==========
 
-Bitmonk - it's the MN/POS/POW(scrypt) cryptocurrency, part of the decentralized exchange system Coinmonkey 2.0 and MonkTtadeX protocol. Repository contain the source of [daemon for Ubuntu 16.04](https://coinmonkey.io/download/bitmonkd) and [daemon.exe for Windows](https://coinmonkey.io/download/bitmonkd.exe) daemons. You can download the wallet [here](https://github.com/coinmonkey/Bitmonk-wallet).
+Bitmonk - it's the MN/POS/POW(scrypt) cryptocurrency, part of the decentralized exchange system Coinmonkey 2.0 and MonkTtadeX protocol. Repository contain the source of [daemon for Ubuntu 16.04](https://coinmonkey.io/download/bitmonkd) and [daemon.exe for Windows](https://coinmonkey.io/download/bitmonkd.exe). You can download the wallet [here](https://github.com/coinmonkey/Bitmonk-wallet).
 
 [bitmonk.coinmonkey.io](http://bitmonk.coinmonkey.io) - for getting more information about cryptocurrency and project.
 
