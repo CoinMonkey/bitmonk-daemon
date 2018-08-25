@@ -38,7 +38,7 @@ sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install build-essential libssl-dev libdb++-dev libboost-all-dev libqrencode-dev autoconf automake libgmp3-dev miniupnpc libminiupnpc-dev
 chmod -R 0755 src
-cd leveldb
+cd src/leveldb
 make clean
 make libleveldb.a libmemenv.a
 cd ..
@@ -120,7 +120,8 @@ bitmonkd.exe masternode stop-many
 ```
 
 Statuses:
-MASTERNODE_NOT_PROCESSED: 0 
+```
+MASTERNODE_NOT_PROCESSED: 0
 MASTERNODE_IS_CAPABLE: 1 
 MASTERNODE_NOT_CAPABLE: 2 
 MASTERNODE_STOPPED: 3
@@ -129,6 +130,7 @@ MASTERNODE_PORT_NOT_OPEN: 6
 MASTERNODE_PORT_OPEN: 7
 MASTERNODE_SYNC_IN_PROCESS: 8
 MASTERNODE_REMOTELY_ENABLED: 9
+```
 
 Ports
 ==========
