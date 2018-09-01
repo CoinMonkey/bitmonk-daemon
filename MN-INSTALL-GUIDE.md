@@ -25,7 +25,7 @@ We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](ht
   ```
   Save returned strins, this is your *{output1}* and *{output2}* (one long, one short, for example "41b130b7ec3d318e6cacba13f8c3148d627f9446a78885f387d45aef6313012c" : "1")
 
-#3. Install MN node at Linux
+# 3. Install MN node at Linux
 
  - Download Putty SSH https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
  - Connect to server via IP address, login (root) and password
@@ -35,7 +35,7 @@ We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](ht
  wget https://raw.githubusercontent.com/CoinMonkey/bitmonk-daemon/master/bmo-mn-installer.sh && chmod 755 bmo-mn-installer.sh && ./bmo-mn-installer.sh
  ```
  
- #4. Start your MN
+ # 4. Start your MN
 
  - Go to "Wallet" tab in windows wallet and click on the link "My MN: 0"
  - Click on Edit button (right side of window), it will open folder with config for you
