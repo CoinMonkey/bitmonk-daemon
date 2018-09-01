@@ -1,12 +1,12 @@
 # 1. Register new VPS
 
-We recommend to register a new VPS at DigitOcean [cloud.digitalocean.com](https://m.do.co/c/9ba9ece23196o). 
+We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](https://m.do.co/c/9ba9ece23196o). 
 
-  - Press green Create button (top right)
+  - Press green "Create" button (top right)
   - Choose Ubuntu 16.04.4 x64 (pay attention to the version, it's important)
   - Choose 1-2GM memory and 25+GB of space
   - Create it
-  - Check login and password for server at the e-mail. Save IP address, this is your {IPLinuxServer}
+  - Check login and password for server at e-mail. Save IP address, this is your *{IPLinuxServer}*
 
 # 2. Generate keys
 
@@ -18,12 +18,12 @@ We recommend to register a new VPS at DigitOcean [cloud.digitalocean.com](https:
   ```
   masternode genkey
   ```
-  Save returned string, this is your {genkey} (for example, 69Y2Rqpr7ugWTdVJV1pklYgRofa6b10oX5rSCpMYRcRlD8qDk21).
+  Save returned string, this is your *{genkey}* (for example, 69Y2Rqpr7ugWTdVJV1pklYgRofa6b10oX5rSCpMYRcRlD8qDk21).
 
   ```
   masternode outputs
   ```
-  Save returned strins, this is {output1} and {output2} (one long, one short, for example "41b130b7ec3d318e6cacba13f8c3148d627f9446a78885f387d45aef6313012c" : "1")
+  Save returned strins, this is your *{output1}* and *{output2}* (one long, one short, for example "41b130b7ec3d318e6cacba13f8c3148d627f9446a78885f387d45aef6313012c" : "1")
 
 #3. Install MN node at Linux
 
