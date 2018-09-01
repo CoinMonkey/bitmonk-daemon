@@ -1,6 +1,6 @@
 # 1. Register new VPS
 
-We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](https://m.do.co/c/9ba9ece23196o). 
+We recommend you to register a new VPS (droplet) at DigitOcean [cloud.digitalocean.com](https://m.do.co/c/9ba9ece23196o). 
 
   - Press green "Create" button (top right)
   - Choose Ubuntu 16.04.4 x64 (pay attention to the version, it's important)
