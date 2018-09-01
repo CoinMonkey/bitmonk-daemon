@@ -4,7 +4,7 @@ We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](ht
 
   - Press green "Create" button (top right)
   - Choose Ubuntu 16.04.4 x64 (pay attention to the version, it's important)
-  - Choose 1-2GM memory and 25+GB of space
+  - Choose 1-2GB RAM and 25+GB of space
   - Create it
   - Check login and password for server at e-mail. Save IP address, this is your *{IPLinuxServer}*
 
@@ -13,7 +13,7 @@ We recommend you to register a new VPS at DigitOcean [cloud.digitalocean.com](ht
   - Open windows wallet
   - Make new transaction with 250000 BMO amount (this is transaction to yourself or from another wallet)
   - Wait 15 minutes
-  - Go to console tab and type 2 commands
+  - Go to the console tab and type 2 commands:
   
   ```
   masternode genkey
