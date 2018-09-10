@@ -124,7 +124,9 @@ And save it (ctrl+x + Y + enter)
 
 ## 10. Open MN config (nano /root/.Bitmonk/masternode.conf) and add one line:
 
+```
 mn1 {IPLinuxServer}:37770 {genkey} {output1} {output2}
+```
 
 Save it (ctrl+x + Y + enter)
 
